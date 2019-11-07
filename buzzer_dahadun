@@ -1,5 +1,5 @@
   
-Play Melody
+/*Play Melody
  * -----------
  *
  * Program to play a simple melody
@@ -37,7 +37,7 @@ Play Melody
 
 // SETUP ============================================
 // Set up speaker on a PWM pin (digital 9, 10 or 11)
-int speakerOut = 9;
+int speakerOut = 8;
 // Do we want debugging on serial out? 1 for yes, 0 for no
 int DEBUG = 1;
 
