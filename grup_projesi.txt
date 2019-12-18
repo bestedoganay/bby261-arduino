@@ -1,0 +1,15 @@
+Projemiz: Kütüphanelerde kullanılmak üzere geliştirilmiş, boş yer belirtme sensörü 
+
+Sistemimiz kütüphane tavanında asılı bulunucak. Eğer masa doluysa kırmızı ışık yanıcak, boşsa yeşil ışık yanıcak ve 
+bu sayede kütüphanede yer arama sıkıntı büyük ölçüde giderilecek.
+
+Kullandığımız Malzemeler: 1 adet arduino uno
+breadboard 
+8 adet erkek erkek jumper kablo 
+2 adet led 
+3 adet 330 ohm direnç 
+hc sr04 ultrasonik sensör
+Grup Üreleri:
+Beste Doğanay 21763202
+Boran Demir 21763177
+Cansel Kundukan 21661577
